@@ -13,3 +13,7 @@ as we have made a page 2 by this
 <br><br>
 we can also use image as a link:<br> <br>
 ![](images/google_link_img.jpg)
+<br>
+table-> this is table tag , it is used with th, td & tr tag to make a table . we also use a border attribute (inline css) to ame its border.
+<br> 
+![](images/table.jpg)
